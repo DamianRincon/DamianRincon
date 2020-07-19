@@ -58,4 +58,3 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="https://www.youtube.com/channel/UCiv3Sc-qSq2HThd5pLuTo2w?view_as=subscriber">
   <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 </a>
----
