@@ -20,7 +20,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
 <br />
-<img align="right" alt="GIF" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png" />
+<img align="right" width="500" height="400" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png" />
 
 ### I am Ajay Singh Khalsa
 - An ML & Open Source enthusiast.
