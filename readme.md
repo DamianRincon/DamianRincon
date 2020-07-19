@@ -1,7 +1,7 @@
 <img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
 
 
-# Hola, soy desarrollador 🇲🇽
+# Hola, soy desarrollador.
 
 Full-Stack | Web | Mobile (Android & Flutter)
 
