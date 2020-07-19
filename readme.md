@@ -20,7 +20,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 - No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico.
 
-- Hablo español, y memes.
+- Habla español y memes.
 
 
 ## Mis redes sociales
