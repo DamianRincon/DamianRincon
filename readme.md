@@ -31,7 +31,10 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <img align="right" width="500" height="400" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png" />
 
 ### Acerca de mi
-- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones. 
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
+
 - A Damián le encanta programar, leer, tomar café y jugar videojuegos.
+
 - No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico.
+
 - Hablo español, y memes.
