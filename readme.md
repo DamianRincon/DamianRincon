@@ -11,7 +11,7 @@
   <img align="left" alt="DamianRincon Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ajay's Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
@@ -23,7 +23,4 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+A Damián le encanta programar, leer, tomar café y jugar videojuegos. No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico. Ha trabajado como programador de software por años y ha tomado mucha experiencia en diferentes tecnologías.
