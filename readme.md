@@ -12,20 +12,42 @@ Full-Stack | Web | Mobile (Android & Flutter)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
 
 
-## About me 
+## Acerca de mi
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
 
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- A Damián le encanta programar, leer, tomar café y jugar videojuegos.
+
+- No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico.
+
+- Hablo español, y memes.
 
 
-## Social media :mailbox_with_no_mail:
+## Mis redes sociales
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/alejorc277)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/alejorc_)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/alejandro-ramirez-ciceros/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/FatChicken277)
+<a href="https://twitter.com/damianrincondrc">
+  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/DamianRincon/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/DamianRincon/">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://t.me/damianrc">
+  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+</a>
+<a href="https://codepen.io/DamianRincon">
+  <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
+</a>
+<a href="https://www.instagram.com/demianrc/">
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+</a>
+<a href="https://play.google.com/store/apps/dev?id=5535284175982649291">
+  <img align="left" alt="GooglePlay" width="22px" src="https://img.icons8.com/color/48/000000/google-play.png"/>
+</a>
+<a href="mailto:damianrc.dev@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
 
 ---
