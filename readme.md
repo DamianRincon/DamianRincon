@@ -1,11 +1,16 @@
-<img align="right" width="400" height="400" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="400" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
 
 
-# Hi, I'm Alejandro :chicken:
+# Hola, soy desarrollador 🇲🇽
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack | Web | Mobile (Android & Flutter)
 
-Holberton School Student. :man_technologist:
+[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/DamianRincon)
+[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
+[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
+[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
+
 
 ## About me 
 
