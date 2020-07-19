@@ -25,7 +25,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 ## Mis redes sociales
 
-<a href="https://twitter.com/damianrincondrc">
+<a href="https://twitter.com/damiarc_dev">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/DamianRincon/">
@@ -49,5 +49,13 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="mailto:damianrc.dev@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-
+<a href="https://www.facebook.com/damianrincondrc">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>
+<a href="https://stackoverflow.com/users/11723572/demianrc">
+  <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a>
+<a href="https://www.youtube.com/channel/UCiv3Sc-qSq2HThd5pLuTo2w?view_as=subscriber">
+  <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+</a>
 ---
