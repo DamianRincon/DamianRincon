@@ -1,4 +1,4 @@
-# Hi, I'm Developer
+# Hola soy Desarrollador
 
 <a href="https://twitter.com/damianrincondrc">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
@@ -8,19 +8,22 @@
   <img align="left" alt="DamianRincon Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/DamianRincon/">
-  <img align="left" alt="DamianRincon Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="DamianRincon Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="https://t.me/AjayKhalsa">
+<a href="https://t.me/damianrc">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://codepen.io/DamianRincon">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
 </a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://www.instagram.com/demianrc/">
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Ajay Singh Khalsa
-A Damián le encanta programar, leer, tomar café y jugar videojuegos. No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico. Ha trabajado como programador de software por años y ha tomado mucha experiencia en diferentes tecnologías.
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
