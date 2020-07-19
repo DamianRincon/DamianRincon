@@ -30,8 +30,8 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 <img align="right" width="500" height="400" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+### Acerca de mi
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones. 
+- A Damián le encanta programar, leer, tomar café y jugar videojuegos.
+- No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico. Ha trabajado como programador de software por años y ha tomado mucha experiencia en diferentes tecnologías. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
