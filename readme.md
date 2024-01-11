@@ -9,7 +9,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 [![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
 [![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
 [![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamianrcdev)](https://twitter.com/damianrcdev)
 
 
 ## Acerca de mi
@@ -25,7 +25,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 ## Mis redes sociales
 
-<a href="https://twitter.com/damiarc_dev">
+<a href="https://twitter.com/damianrcdev">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/DamianRincon/">
@@ -40,7 +40,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="https://codepen.io/DamianRincon">
   <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
 </a>
-<a href="https://www.instagram.com/demianrc/">
+<a href="https://www.instagram.com/damianrc.dev/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
 <a href="https://play.google.com/store/apps/dev?id=5535284175982649291">
@@ -49,7 +49,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="mailto:damianrc.dev@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://www.facebook.com/damianrincondrc">
+<a href="https://www.facebook.com/damianrc.dev">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 <a href="https://stackoverflow.com/users/11723572/demianrc">
